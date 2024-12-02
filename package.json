@@ -1,0 +1,20 @@
+{
+  "name": "wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "##Challenges",
+  "main": "net-salary-calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaayussuf/WK1-code-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaayussuf/WK1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/aaayussuf/WK1-code-challenge#readme"
+}
